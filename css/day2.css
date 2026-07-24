@@ -1,0 +1,17 @@
+ h1{
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+p{
+    font-style: italic;
+    font-weight: 700;
+}
+p{
+    color: burlywood;
+    line-height: 60px;
+    text-align: center;
+    text-decoration: dotted;
+    text-transform: capitalize;
+    text-indent: 8% ;
+    word-spacing: 12px;
+}
