@@ -1,0 +1,13 @@
+table ,tr, th,td{
+    border: 2px solid saddlebrown;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+
+}
+th{
+    background-color: chocolate;
+}
+td{
+    background-color: blanchedalmond;
+}
