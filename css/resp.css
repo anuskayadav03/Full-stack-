@@ -1,0 +1,10 @@
+html{
+    font-size: 1em;
+}
+
+@media screen and (width:600px),
+screen and (orientation: landscape) {
+    body{
+        color: red;
+    }
+}
